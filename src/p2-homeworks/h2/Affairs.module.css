@@ -1,3 +1,29 @@
 .someClass {
+background-color: darkturquoise;
+    display: flex;
+    flex-direction: column;
 
+
+}
+.butt {
+padding-left: 20px;
+    padding-right: 20px;
+    background-color: aqua;
+
+}
+.one {
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.two {
+    padding-right: 40px;
+}
+
+.butt2 {
+    padding-left: 50px;
+
+}
+.butt3 {
+    margin-right: 20px;
+    background-color: cornflowerblue;
 }

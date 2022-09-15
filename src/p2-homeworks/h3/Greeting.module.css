@@ -1,7 +1,26 @@
 .someClass {
 
 }
-
+.container{
+    background-color: darksalmon;
+}
 .error {
-    border: 1px solid red;
+    border: 3px solid red;
+    margin-left: 10px;
+}
+.totalUsers{
+    font-size: 50px;
+margin-left: 10px;
+}
+.button {
+    margin-left: 10px;
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color: gold;
+
+}
+input {
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+    background-color: darksalmon;
 }

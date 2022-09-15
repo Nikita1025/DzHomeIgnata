@@ -1,0 +1,21 @@
+/*.anim{*/
+/*    display: block;*/
+/*    position: fixed;*/
+/*    list-style:none;*/
+/*    padding: 10px;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*    width: 200px;*/
+/*    background-color: red;*/
+/*    height: 100%;*/
+/*    top: 0;*/
+/*    left: -200px;*/
+/*    transition: left .2s;*/
+/*    z-index: 2;*/
+/*    -webkit-transform: translateZ(0);*/
+/*    -webkit-backface-visibility: hidden;*/
+/*}*/
+.navlink{
+   margin-right: 20px;
+    margin-left: 10px;
+}
