@@ -1,7 +1,7 @@
 {
   "name": "simple-react-homeworks",
   "version": "0.1.0",
-  "homepage": "https://nikita1025.github.io/DzHomeIgnata/",
+  "homepage": "https://nikita1025.github.io/DzHomeIgnata",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
