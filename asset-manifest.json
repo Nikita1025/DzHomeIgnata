@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DzHomeIgnata/static/css/main.c3a58aeb.chunk.css",
+    "main.css": "/DzHomeIgnata/static/css/main.045839c9.chunk.css",
     "main.js": "/DzHomeIgnata/static/js/main.f1b3c664.chunk.js",
     "main.js.map": "/DzHomeIgnata/static/js/main.f1b3c664.chunk.js.map",
     "runtime-main.js": "/DzHomeIgnata/static/js/runtime-main.55c24d77.js",
@@ -8,15 +8,15 @@
     "static/js/2.72aa7c83.chunk.js": "/DzHomeIgnata/static/js/2.72aa7c83.chunk.js",
     "static/js/2.72aa7c83.chunk.js.map": "/DzHomeIgnata/static/js/2.72aa7c83.chunk.js.map",
     "index.html": "/DzHomeIgnata/index.html",
-    "precache-manifest.65a2bf2131c5135cc71046c1c087ce75.js": "/DzHomeIgnata/precache-manifest.65a2bf2131c5135cc71046c1c087ce75.js",
+    "precache-manifest.950930fabf348cf4668f26cc465d8b0e.js": "/DzHomeIgnata/precache-manifest.950930fabf348cf4668f26cc465d8b0e.js",
     "service-worker.js": "/DzHomeIgnata/service-worker.js",
-    "static/css/main.c3a58aeb.chunk.css.map": "/DzHomeIgnata/static/css/main.c3a58aeb.chunk.css.map",
+    "static/css/main.045839c9.chunk.css.map": "/DzHomeIgnata/static/css/main.045839c9.chunk.css.map",
     "static/js/2.72aa7c83.chunk.js.LICENSE.txt": "/DzHomeIgnata/static/js/2.72aa7c83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.55c24d77.js",
     "static/js/2.72aa7c83.chunk.js",
-    "static/css/main.c3a58aeb.chunk.css",
+    "static/css/main.045839c9.chunk.css",
     "static/js/main.f1b3c664.chunk.js"
   ]
 }
