@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2167eae45a2a3a85ffbbd926f6d4b96",
+    "revision": "a2945fde5a7f0930fa2700343603d550",
     "url": "/DzHomeIgnata/index.html"
   },
   {
-    "revision": "e07296cfdfb8dc038433",
-    "url": "/DzHomeIgnata/static/css/main.045839c9.chunk.css"
+    "revision": "6c3394f1a542c674503a",
+    "url": "/DzHomeIgnata/static/css/main.eb9e0b4f.chunk.css"
   },
   {
     "revision": "ff99fcf255f46162f27c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DzHomeIgnata/static/js/2.72aa7c83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e07296cfdfb8dc038433",
+    "revision": "6c3394f1a542c674503a",
     "url": "/DzHomeIgnata/static/js/main.f1b3c664.chunk.js"
   },
   {
